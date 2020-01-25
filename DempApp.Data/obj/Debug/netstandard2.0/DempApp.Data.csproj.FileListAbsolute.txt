@@ -1,0 +1,11 @@
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\bin\Debug\netstandard2.0\DempApp.Data.deps.json
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\bin\Debug\netstandard2.0\DempApp.Data.dll
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\bin\Debug\netstandard2.0\DempApp.Data.pdb
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\bin\Debug\netstandard2.0\DemoApp.Domain.dll
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\bin\Debug\netstandard2.0\DemoApp.Domain.pdb
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.csprojAssemblyReference.cache
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.AssemblyInfoInputs.cache
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.AssemblyInfo.cs
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.csproj.CopyComplete
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.dll
+C:\Users\Mazhar Ali\source\repos\DemoApp\DempApp.Data\obj\Debug\netstandard2.0\DempApp.Data.pdb
